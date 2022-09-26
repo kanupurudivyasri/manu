@@ -1,1 +1,5 @@
 created new text file
+git log
+git branch -a
+git pull --all
+git push --set-upstream origin branch
